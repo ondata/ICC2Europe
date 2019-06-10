@@ -405,8 +405,7 @@ From Mare Nostrum to Triton: Deterrence as an Organizational Policy
 
 95 Frontex: Operations Division Joint Operations Unit, 2014, “Concept of reinforced joint operation tackling the migratory flows towards Italy: JO EPN-Triton: to better control irregular migration and contribute to SAR in the Mediterranean Sea”, p. 9, online, https://deathbyrescue.org/assets/annexes/2.Frontex\_Concept\_JO\_EPN-Triton\_28.08.2014.pdf, accessed 27/02/2019. Operation Hermes covered the areas of the Pelagic Islands and Sicily (excluding Malta), the area south of Sardinia, and included a Common PatrollingArea (CPA) which covered the east of Sicily. OperationAeneas consisted of the operational areas ofApulia and Calabria, along the Ionian Sea coast and part of the Adriatic sea coast.
 
-96 Amnesty International, 2015, “Europe’s Sinking Shame: The failure to save refugees and migrants at sea”, p. 13, 23, online,
-
+96 Amnesty International, 2015, “Europe’s Sinking Shame: The failure to save refugees and migrants at sea”, p. 13, 23, online, https://www.amnesty.org/download/Documents/EUR0314342015ENGLISH.PDF, accessed 27/02/2019.
 
 63. Triton employed significantly fewer vessels compared to MN. Whilst MN included 6 helicopters, 4 offshore patrol vessels, frigates and amphibious vessels, Triton only had one helicopter, one offshore patrol vessel and no frigates or amphibious vessels.97
 
@@ -419,8 +418,6 @@ From Mare Nostrum to Triton: Deterrence as an Organizational Policy
 67. As described below, when planning was translated to implementation, the natural consequence of the creation of a zone lacking any form of SAR operations, a zone which happened to be the one where they were most needed – was that boats would be left to drift for a period of days from the moment of distress until a competent SAR vessel to reach them, given that Triton’s vessels were now posted much further away from Libya’s coast.100
 
 68. Before the adoption of the policy still in the planning phase, EU officials did not shy away from acknowledging that Triton was an inadequate replacement for Mare Nostrum, and that the consequences of such an incomplete policy would be dire in terms of the cost of human lives.
-
-https://www.amnesty.org/download/Documents/EUR0314342015ENGLISH.PDF, accessed 27/02/2019.
 
 97 including one helicopter (as opposed to 6), two fixed-wing aircrafts (as opposed to 3), one offshore patrol vessel (as opposed to 4), and no frigates or amphibious vessels (as opposed to 1-2 and 1, respectively).
 
@@ -910,13 +907,9 @@ Palermo, Cagliari and Trapani.
 
 191. InvestigationsagainstSea-Watchand itspersonnelwerestarted for “alleged conspiracy and migrant smuggling”, and discontinued in June 2018.208
 
-192. The public prosecutor of Sicily started an investigation into the Vos Hestia of the NGO Save
+192. The public prosecutor of Sicily started an investigation into the Vos Hestia of the NGO Save the Children after an undercover agent worked on board the ship. The vessel was searched and the captain was interviewed by the deputy prosecutor of Trapani. The investigation was eventually discontinued.209
 
-the Children after an undercover agent worked on board the ship. The vessel was searched and the captain was interviewed by the deputy prosecutor of Trapani. The investigation was eventually discontinued.209
-
-193. On 19 March 2018 vessel Open Arms with 218 migrants on board, operated by the Spanish
-
-NGO Proactiva OpenArms, was seized after it docked in Pozzallo, Sicily.
+193. On 19 March 2018 vessel Open Arms with 218 migrants on board, operated by the Spanish NGO Proactiva OpenArms, was seized after it docked in Pozzallo, Sicily.
 
 203 Ibid.
 
@@ -935,9 +928,7 @@ NGO Proactiva OpenArms, was seized after it docked in Pozzallo, Sicily.
 
 195. The crew of Proactiva Open Arms’ vessel Golfo Azzurro also faced charges: the public prosecutor initiated criminal investigation “against persons unknown involved in migrant smuggling”. In June 2018 the investigation was discontinued by the Palermo Tribunal.212
 
-196. July 2018, Italy’s new government arrested Claus-Peter Reisch, the captain of Lifeline of
-
-the NGO Mission Lifeline. He was charged with entering Malta’s territorial waters illegally with 234 migrants, whom he rescued on 21 June 2018.213 Investigations are ongoing against the captain for “not following the orders of the Italian MRCC and entering Malta’s territorial waters illegally”.214
+196. July 2018, Italy’s new government arrested Claus-Peter Reisch, the captain of Lifeline of the NGO Mission Lifeline. He was charged with entering Malta’s territorial waters illegally with 234 migrants, whom he rescued on 21 June 2018.213 Investigations are ongoing against the captain for “not following the orders of the Italian MRCC and entering Malta’s territorial waters illegally”.214
 
 197. The Maltese public prosecutor began investigations into The Sea Eye, Seefuchs, and Sea-Watch 3 (all Dutch flag-ships) in July 2018, operated by the NGO Sea Eye (fist two vessels) and Sea-Watch respectively. Investigations regarded “potential issues with the registration of the ships”.215 As a result the ships were not allowed to leave port for several months.216
 
@@ -1004,11 +995,9 @@ The Misuse andAbuse of Laws of the Sea
 
 207. The subsection below and Annex II (Section 6.2) depict several concrete cases of this industry of premeditated collective expulsions in which NGOs were ordered by EU agencies and agents to step aside despite being the closest most competent boat to conduct the SAR operation.
 
-208. Thus, the installing of the LYCG as the dominant actor in the Central Mediterranean
+208. Thus, the installing of the LYCG as the dominant actor in the Central Mediterranean went hand in hand with thecompromising of thecapabilitiesof rescueNGOsoperating in theregion by delegitimizing and criminalizing their SAR activities225.
 
-wenthand in hand with thecompromising of thecapabilitiesof rescueNGOsoperating in theregion by delegitimizing and criminalizing their SAR activities225.
-
-209. SincetheGNAhasannounced itsSAR zone, ithasdeclared thatno foreignvesselcould enter its SAR zone without its consent— a ban with no basis under international law226. Furthermore, evidence gathered indicate that the LYCG are threatening and using violence to
+209. SincetheGNAhasannounced itsSAR zone, ithasdeclared thatno foreignvesselcould enter its SAR zone without its consent— a ban with no basis under international law226. Furthermore, evidence gathered indicate that the LYCG are threatening and using violence to ensure that NGO vessels do not enter the zone227.
 
 223 AmnestyInternational,11December2017,Libya'sDarkWebofCollusion:AbusesAgainstEurope-bound Refugeesand Migrants, p48, online, https://www.amnesty.org/en/documents/mde19/7561/2017/en/, accessed 25/03/2019
 
@@ -1017,9 +1006,6 @@ wenthand in hand with thecompromising of thecapabilitiesof rescueNGOsoperating i
 225 Heller, C., Pezzani, L., 2018, “Mare Clausum: Italy and the EU’s undeclared operation to stem migration across the Mediterranean”, p47, Forensic Oceanography
 
 226 Mathieu, M., 2018, “Migrants: le hold-up de la Libye sur les sauvetages en mer”, Mediapart, online, https://www.mediapart.fr/journal/international/111018/migrants-le-hold-de-la-libye-sur-les-sauvetages-en-mer?onglet=full, accessed 05/04/2019
-
-
-ensure that NGO vessels do not enter the zone227.
 
 Recent Trends: Disembarkation Preventions, De-Flagging and other ‘Technicalities’
 
@@ -1031,9 +1017,7 @@ Recent Trends: Disembarkation Preventions, De-Flagging and other ‘Technicaliti
 
 213. Panama also revoked its flag in September 2018 after what MSF called “blatant economic and political pressure from the Italian government”235.
 
-214. In November 2018 the Aquarius obtained provisional flag registration from Liberia after
-
-both Gibraltar and Panama had revoked its registration. This provisional flag registration does not
+214. In November 2018 the Aquarius obtained provisional flag registration from Liberia after both Gibraltar and Panama had revoked its registration. This provisional flag registration does not suffice for the vessel to resume rescue operations.236
 
 227 Ibid.
 
@@ -1053,8 +1037,6 @@ both Gibraltar and Panama had revoked its registration. This provisional flag re
 
 235 MSFPressRelease,2018,“ItalianGovernmentpressuresPanama to stop AquariusRescueson world’sdeadliestmaritimeroute”, online, https://www.msf.org/italian-government-pressures-panama-stop-aquarius-rescues-worlds-deadliest-maritime-route, accessed 07/04/2019.
 
-
-suffice for the vessel to resume rescue operations.236
 
 215. On 31 January 2019, Sea-Watch 3 was blocked in Catania due to “irregularities during technical verification of Sea-Watch 3’s compliance with the laws of the sea”. Johannes Bayer, Chairman of Sea-Watch, stated: “With the delay of our ship in the harbor, the responsibility for further death at sea is taken, deliberately and with impunity. To hinder rescue workers is a criminal act itself”.237
 
@@ -1124,7 +1106,7 @@ III. Greece: 3247 or 23,1%248
 
 225. The criminalization and other means of intimidation led to sharp decrease in NGO presence. The European Union Agency For Fundamental Rights (FRA) reports that as per August 2018 only MSF/ SOS Mediterranée, Refugee Rescue PROEM AID (to start autumn 2018) and Proactivia Open Arms remain operational.249
 
-226. As a result of EU, Italian (alongside other Member States) and Libyan hostile pressures and threats, and fearing they might be forced to hand rescued individuals to the LYCG which would return them to Libya, the following NGOs ceased their operations:
+226. As a result of EU, Italian (alongside other Member States) and Libyan hostile pressures and threats, and fearing they might be forced to hand rescued individuals to the LYCG which would return them to Libya, the following NGOs ceased their operations: 
 
 I. Medecins Sans Frontières, in August 2017
 
